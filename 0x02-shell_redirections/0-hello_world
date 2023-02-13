@@ -1,2 +1,2 @@
 #!/bin/bash
-cat Hello,_World.txt | fmt |pr
+echo "Hello World"
