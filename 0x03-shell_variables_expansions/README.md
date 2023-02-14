@@ -14,3 +14,4 @@
 13-print_float
 101-rot13
 100-decimal_to_hexadecimal
+102-odd
