@@ -4,3 +4,4 @@
 3-path
 3-paths
 5-local_variables
+6-create_local_variable
